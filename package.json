@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
     "start": "webpack-dev-server --open"
   },
   "keywords": [],
@@ -28,9 +29,12 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.13.3"
   },
   "dependencies": {
-    "html-webpack-plugin": "^5.5.1"
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.1",
+    "style-loader": "^3.3.2"
   }
 }
