@@ -6,7 +6,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖-About-the-Project ](#-about-the-project-)
+- [📖LeaderBoard List Project ](#leaderboard-list-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -26,7 +26,7 @@
   - [📝 License ](#-license-)
 <!-- PROJECT DESCRIPTION -->
 
-# 📖-About-the-Project <a name="about-project"></a>
+# 📖LeaderBoard List Project <a name="about-project"></a>
 
 ![screenshot 1](image1.jpg)
 
@@ -71,7 +71,7 @@ In Phase 1 branch of this repository, I have used Gitflow.I have created an npm 
  
 ## 🚀 Live Demo <a name="live-demo"></a>
  
-- [LIVE-DEMO](<a href="#">(https://github.com/harshi0102/LeaderBoard-Project.git)
+- [LIVE-DEMO]<a href="#">(coming soon) 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
