@@ -71,7 +71,7 @@ In Phase 1 branch of this repository, I have used Gitflow.I have created an npm 
  
 ## 🚀 Live Demo <a name="live-demo"></a>
  
-- [LIVE-DEMO](<a href="#">coming soon 
+- [LIVE-DEMO]<a href="#">(coming soon) 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
