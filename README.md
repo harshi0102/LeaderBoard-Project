@@ -33,11 +33,7 @@
 -***Live Demo Link***-coming soon
 
 **LeaderBoard Project** -In this activity I have set up a JavaScript project for the Leader board list app, using webpack and ES6 features, notably modules.
-Phase 1 branch- setup project
- I have used Gitflow
- I have created an npm project with webpack
- I wrote plain HTML markup with minimum styling (just to make the layout), because I  will implement styles in the following steps
- and I have used ES6 modules, with import and export.
+In Phase 1 branch of this repository, I have used Gitflow.I have created an npm project with webpack.I wrote plain HTML markup with minimum styling (just to make the layout) and I have used ES6 modules, with import and export.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -135,13 +131,9 @@ In order to run this project you need:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [] **Personnalize the style**
+- [] **Implement the "Refresh" button (receiving data from the API and parsing the JSON)**
  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-- [ ] **Homepage**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
