@@ -28,7 +28,7 @@
 
 # 📖-About-the-Project <a name="about-project"></a>
 
-![screenshot 1](./src/image1.jpg)
+![screenshot 1](image1.jpg)
 
 -***Live Demo Link***-coming soon
 
