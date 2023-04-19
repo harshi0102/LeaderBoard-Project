@@ -35,6 +35,15 @@
 **LeaderBoard Project** -In this activity I have set up a JavaScript project for the Leader board list app, using webpack and ES6 features, notably modules.
 In Phase 1 branch of this repository, I have used Gitflow.I have created an npm project with webpack.I wrote plain HTML markup with minimum styling (just to make the layout) and I have used ES6 modules, with import and export.
 
+In Phase2 branch, I implemented the following requirements:-
+-Hit the API
+-Read the Leader board API documentation to learn how to use this API.
+-Create a new game with the name of your choice by using the API.
+-Implement the "Refresh" button (receiving data from the API and parsing the JSON).
+-Implement the form "Submit" button (sending data to the API).
+-Use async and await JavaScript features to consume the API.
+-No styling is required.
+
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
