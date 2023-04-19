@@ -28,8 +28,6 @@
 
 # 📖LeaderBoard List Project <a name="about-project"></a>
 
-![screenshot 1](image1.jpg)
-
 -***Live Demo Link***-coming soon
 
 **LeaderBoard Project** -In this activity I have set up a JavaScript project for the Leader board list app, using webpack and ES6 features, notably modules.
