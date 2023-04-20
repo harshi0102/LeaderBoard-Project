@@ -42,6 +42,11 @@ In Phase2 branch, I implemented the following requirements:-
 -Use async and await JavaScript features to consume the API.
 -No styling is required.
 
+In Phase3 branch, I implemented the following requirements:
+At this point I have a fully working app that uses only basic styles to make the layout work, according to the wire frame.
+These are the new requirements implemented for phase 3 of the project:
+I have improve the look and feel of the application, adding the styles of my choice and  used plain CSS or any CSS framework, 
+
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
