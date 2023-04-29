@@ -83,7 +83,7 @@ I have improve the look and feel of the application, adding the styles of my cho
  
 ## 🚀 Live Demo <a name="live-demo"></a>
  
-- [LIVE-DEMO]<a href="#">(coming soon) 
+- [LIVE-DEMO]<a href="#">(https://harshi0102.github.io/LeaderBoard-Project/dist/) 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
