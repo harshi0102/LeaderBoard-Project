@@ -32,6 +32,7 @@
 
 **LeaderBoard Project** -In this activity I have set up a JavaScript project for the Leader board list app, using webpack and ES6 features, notably modules.
 In Phase 1 branch of this repository, I have used Gitflow.I have created an npm project with webpack.I wrote plain HTML markup with minimum styling (just to make the layout) and I have used ES6 modules, with import and export.
+![image](https://github.com/harshi0102/LeaderBoard-Project/assets/108334376/675c46ec-3f44-4233-b9ef-e34aba3930b7)
 
 In Phase2 branch, I implemented the following requirements:-
 -Hit the API
