@@ -28,7 +28,7 @@
 
 # 📖LeaderBoard List Project <a name="about-project"></a>
 
--***Live Demo Link***-coming soon
+-***Live Demo Link***-https://harshi0102.github.io/LeaderBoard-Project/dist/
 
 **LeaderBoard Project** -In this activity I have set up a JavaScript project for the Leader board list app, using webpack and ES6 features, notably modules.
 In Phase 1 branch of this repository, I have used Gitflow.I have created an npm project with webpack.I wrote plain HTML markup with minimum styling (just to make the layout) and I have used ES6 modules, with import and export.
